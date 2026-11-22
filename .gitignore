@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+*.log
+.env
+.env.*
+旅行状态.json
+研究资料/
+媒体/
+*.zip
+*.pdf
+*.html
+*.jpg
+*.jpeg
+*.png
